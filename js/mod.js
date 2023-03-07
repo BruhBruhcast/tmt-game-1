@@ -1,11 +1,11 @@
 let modInfo = {
 	name: "The Modding Tree",
-	id: "mymod",
-	author: "",
-	pointsName: "points",
+	id: "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+	author: "BruhBruhcast",
+	pointsName: "chaos",
 	discordName: "",
 	discordLink: "",
-	initialStartPoints: new ExpantaNum (10), // Used for hard resets and new players
+	initialStartPoints: new ExpantaNum (0), // Used for hard resets and new players
 	
 	offlineLimit: 1,  // In hours
 }
